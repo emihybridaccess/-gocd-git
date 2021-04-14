@@ -3,3 +3,4 @@
 sudo apt update 
 
 
+ping -c 3 www.google.com
